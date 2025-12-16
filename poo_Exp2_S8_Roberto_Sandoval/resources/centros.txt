@@ -1,0 +1,5 @@
+Piscicultura Del Sur;Coyhaique;1500.5
+Granjas Marinas 1;Guaitecas;2000.0
+Acuícola Puerto Claro;Castro;950.75
+Salmón Express;PuertoMontt;3100.2
+Planta Austral 5;PuntaArenas;1250.0
